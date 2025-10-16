@@ -35,4 +35,4 @@ AgentraOS ensures **full explainability** of results.
 
 ## 🌐 Learn More
 
-[Visit AgentraOS →](https://agentraos.com/)
+[Visit AgentraOS →](https://agentraos.com/en#contact)
