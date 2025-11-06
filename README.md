@@ -71,4 +71,4 @@ In the following workflow you see how AgentraOS will process the request for new
 
 ## 🌍 Learn More
 
-[Visit AgentraOS →](https://agentraos.com/en#unboxing_the_blackbox)
+[Visit AgentraOS →](https://agentraos.com/en)
