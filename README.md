@@ -67,6 +67,7 @@ In the following workflow you see how AgentraOS will process the request for new
 
 ![AgentraOS Workflow](./npp_agentraos_workflow.png)
 
+---
 
 ## 🌍 Learn More
 
